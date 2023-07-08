@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/xkrtt.png</file>
+        <file>image/human1.png</file>
+        <file>image/human2.png</file>
+        <file>image/human3.png</file>
+        <file>image/human4.png</file>
+        <file>image/background.jpg</file>
+    </qresource>
+</RCC>
